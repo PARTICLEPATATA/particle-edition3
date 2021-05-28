@@ -26,7 +26,7 @@ p{
 
 #Particle{
     background:linear-gradient( 
-        #ac649c 0%, #ed9cb8 100% );
+         #ed9cb8 0%, #ac649c 100% );
     opacity:0.83;
     overflow:hidden;
     height:90%;
