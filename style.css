@@ -1,0 +1,154 @@
+h1{
+    font-family: 'Amatic SC', cursive;
+    color:#8a488c
+    ;
+    text-shadow:2px 2px #ed9cb8; 
+    font-size:700%;
+    text-align:center;
+    
+}
+
+p{
+    font-family: 'Oswald', sans-serif;
+    font-size:medium;
+    font-weight:200;
+    color:black;
+    font-size:200%;
+}
+
+
+#Particle{
+    background:linear-gradient( 
+        #ac649c 0%, #ed9cb8 100% );
+    opacity:0.83;
+    overflow:hidden;
+    height:90%;
+    text-align: center;
+}
+
+
+h4{
+    font-size:1100%;
+    font-family: 'Amatic SC', cursive;
+    color:#eae4eb;
+  
+
+}
+
+h2{
+    font-family: 'Amatic SC', cursive;
+    color:#eae4eb; 
+    font-size: 350%; 
+}
+
+#Music{
+    text-align:center;
+}
+
+
+
+
+a {
+    font-family: 'Amatic SC', cursive;   
+    font-size: 200%;
+
+}
+
+#navbar-brand{
+    font-family: 'Amatic SC', cursive;   
+    font-size: 200%;
+
+}
+
+h3{
+    font-family: 'Amatic SC', cursive; 
+    font-size:350%; 
+    text-align: center;
+}
+img{
+    text-align: center;
+}
+
+#breaker{
+
+text-align: center;
+}
+
+#p1{
+    font-family: 'Oswald', sans-serif;
+    font-size:400%;
+    
+}
+
+#about_us{
+    text-align:center;
+}
+
+#the_little_prince{
+    margin-left:10%;
+    margin-right:10%;
+}
+
+#the_medicine{
+    margin-left: 10%;;
+    margin-right: 10%;; 
+}
+
+#space_gods{
+    margin-left:10%;
+    margin-right:10%; 
+}
+#album{
+    border-style:solid;
+    border-color:black;
+    border-radius:10px;
+    padding:5px;
+    width:450px;
+  }
+
+#mubla{
+    border-style:solid;
+    border-color:black;
+    border-radius:10px;
+    padding:5px;
+    width:450px; 
+}
+
+#covid19{
+    margin-left:10%;
+    margin-right:10%;   
+}
+
+#about_us{
+    margin-left:10%;
+    margin-right:10%;
+      
+}
+
+img{
+    max-width: 100%;
+}
+
+#p2{
+    text-align: center;
+}
+
+#amthoughts{
+    margin-left:10%;
+    margin-right:10%;
+}
+
+#poems{
+    margin-left:10%;
+    margin-right:10%; 
+}
+
+
+body {
+    background-color: #eae4eb;
+}
+
+#guest_features{
+    margin-left:10%;
+    margin-right:10%;  
+}
