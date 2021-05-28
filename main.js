@@ -29,7 +29,7 @@ var images=[
   ];
 
   var i=0;
-  function nextslide(){
+  function next(){
      document.getElementById("mubla").src=photos[i]; i++;
   }
     
